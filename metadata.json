@@ -1,0 +1,6 @@
+{
+  "name": "VPNSXB",
+  "description": "High-speed Material 3 VPN client with live network telemetry and security controls",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
